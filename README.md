@@ -36,21 +36,25 @@ All other inputs will trigger a fallback message suggesting the user to type `me
 
 ![menu request](screenshots/ss1.jpg)
 
-**Catalog display:**
+**Catalog display:**  
 ![Catalogue](screenshots/ss2.jpg)
 
-**Items added to cart:**
+**Items added to cart:** 
 
 ![cart](screenshots/ss3.jpg)
 
-**Order summary received:**
 
+**View Cart:**
 ![summary](screenshots/ss4.jpg)
 
-### Server Logs
+**Order summary received (receipt):**
 
-![logs](screenshots/ss5.jpg)
+![receipt](screenshots/ss5.jpg)
+
+### Server Logs
 ![logs](screenshots/ss6.jpg)
+![logs](screenshots/ss7.jpg)
+
 
 
 
