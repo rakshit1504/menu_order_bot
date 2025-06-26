@@ -44,7 +44,8 @@ All other inputs will trigger a fallback message suggesting the user to type `me
 ![cart](screenshots/ss3.jpg)
 
 
-**View Cart:**
+**View Cart:**  
+
 ![summary](screenshots/ss4.jpg)
 
 **Order summary received (receipt):**
