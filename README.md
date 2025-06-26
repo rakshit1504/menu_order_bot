@@ -34,19 +34,24 @@ All other inputs will trigger a fallback message suggesting the user to type `me
 
 **Catalog request:**
 
-![menu request](screenshots/menu_sent.png)
+![menu request](screenshots/ss1.jpg)
+
+**Catalog display:**
+![Catalogue](screenshots/ss2.jpg)
 
 **Items added to cart:**
 
-![cart](screenshots/cart_created.png)
+![cart](screenshots/ss3.jpg)
 
 **Order summary received:**
 
-![summary](screenshots/order_summary.png)
+![summary](screenshots/ss4.jpg)
 
 ### Server Logs
 
-![logs](screenshots/server_logs.png)
+![logs](screenshots/ss5.jpg)
+![logs](screenshots/ss6.jpg)
+
 
 
 ## Demo
@@ -55,7 +60,6 @@ All screenshots and a working demo video are available here:
 
 [Google Drive Demo Folder](https://drive.google.com/drive/folder/YOUR_FOLDER_ID)
 
-Replace the link with your actual Drive folder.
 
 ---
 
