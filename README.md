@@ -104,13 +104,13 @@ npm install
 
 Create a .env file in the root folder:
 
-``
+```ini
 WEBHOOK_VERIFY_TOKEN=your_verify_token  
 GRAPH_API_TOKEN=your_generated_token  
 PHONE_NUMBER_ID=your_whatsapp_phone_number_id  
 PORT=3000  
 CATALOG_TEMPLATE_NAME=menu  
-``
+```
 
 ### 5. Start the Server
 
