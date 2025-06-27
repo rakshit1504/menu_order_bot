@@ -12,7 +12,7 @@ A Node.js + Express backend using the WhatsApp Cloud API. This server listens fo
 - Calculates total cost and sends receipt message
 - Handles fallback responses for invalid input
 
-## 🧠 Built With
+##  Built With
 - Node.js
 
 - Express.js
@@ -104,13 +104,13 @@ npm install
 
 Create a .env file in the root folder:
 
-`
-WEBHOOK_VERIFY_TOKEN=your_verify_token
-GRAPH_API_TOKEN=your_generated_token
-PHONE_NUMBER_ID=your_whatsapp_phone_number_id
-PORT=3000
-CATALOG_TEMPLATE_NAME=menu
-`
+``
+WEBHOOK_VERIFY_TOKEN=your_verify_token  
+GRAPH_API_TOKEN=your_generated_token  
+PHONE_NUMBER_ID=your_whatsapp_phone_number_id  
+PORT=3000  
+CATALOG_TEMPLATE_NAME=menu  
+``
 
 ### 5. Start the Server
 
