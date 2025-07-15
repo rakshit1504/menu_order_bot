@@ -73,9 +73,9 @@ All other inputs will trigger a fallback message suggesting the user to type `me
 
 ## Demo
 
-All screenshots and a working demo video are available here:
+a working demo video is available here:
 
-[Google Drive Demo Folder](https://drive.google.com/drive/folder/YOUR_FOLDER_ID)
+[Drive Demo Folder](https://drive.google.com/drive/folders/1WXuN6vslmhhX38jpCwSIaX0bUL_sicLI?usp=sharing)
 
 
 ---
