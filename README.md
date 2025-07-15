@@ -75,7 +75,7 @@ All other inputs will trigger a fallback message suggesting the user to type `me
 
 a working demo video is available here:
 
-[Drive Demo Folder](https://drive.google.com/drive/folders/1WXuN6vslmhhX38jpCwSIaX0bUL_sicLI?usp=sharing)
+[Drive Demo Folder](https://drive.google.com/file/d/1HSrMv29TynGltWaJnkevRRDSRiKX5Xb2/view?usp=sharing)
 
 
 ---
