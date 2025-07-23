@@ -2,8 +2,7 @@
 A Node.js + Express backend using the WhatsApp Cloud API. This server listens for incoming WhatsApp messages, sends a product catalog, receives customer orders via WhatsApp cart, and responds with an itemized order summary and total amount.
 
 
-## Features
-
+## Features   
 - Sends catalog template when user types `menu`
 - Accepts WhatsApp cart-based orders
 - Calculates total cost and sends receipt message
