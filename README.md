@@ -21,7 +21,6 @@ A Node.js + Express backend using the WhatsApp Cloud API. This server listens fo
 - axios
 
 
-
 ## WhatsApp Interaction Flow
 
 1. User sends the word `menu`
